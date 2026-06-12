@@ -1,0 +1,6 @@
+MCQ,Choices,Correct
+What is a Large Language Model (LLM)?,"a : A type of neural network that can only analyze text | b : A neural network trained on vast amounts of text for natural language processing tasks | c : A model that can only generate, but not summarize or translate text | d : A type of AI model that can only learn from structured data",b
+Which of the following is a drawback of LLMs?,"a : They are highly parallelizable | b : They can be biased or inaccurate if trained on bad data | c : They can only generate text, but not summarize or translate it | d : They require very little training data",b
+What is the name of the architecture that LLMs are typically based on?,a : Transformer | b : Recurrent Neural Network (RNN) | c : Long Short-Term Memory (LSTM) | d : All of the above,a
+Which model was introduced in 2017 and revolutionized language models?,a : BERT | b : GPT | c : The transformer architecture | d : Word2Vec,c
+What is the main difference between BERT and other LLMs?,"a : BERT is a type of GPT model | b : BERT is an encoder-only model, unlike most other LLMs | c : BERT requires much more training data than other LLMs | d : BERT can only be used for language generation tasks",b
