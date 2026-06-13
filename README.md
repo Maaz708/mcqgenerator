@@ -154,7 +154,7 @@ http://localhost:8501
 **Mohd Maaz**
 
 * GitHub: https://github.com/Maaz708
-* LinkedIn: Add your LinkedIn profile link
+* LinkedIn: www.linkedin.com/in/mohd-maaz-1277121b1
 
 ---
 
