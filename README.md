@@ -53,11 +53,11 @@ mcqgenerator/
 ```
 
 
-##Screenshot
-```
+## Screenshot
+
 <img width="412" height="566" alt="Screenshot 2026-06-13 044008" src="https://github.com/user-attachments/assets/8055991e-0ea4-4b66-8c70-41c77d6e16a8" />
 
-```
+
 
 ---
 
