@@ -55,7 +55,8 @@ mcqgenerator/
 
 ## Screenshot
 
-<img width="412" height="566" alt="Screenshot 2026-06-13 044008" src="https://github.com/user-attachments/assets/8055991e-0ea4-4b66-8c70-41c77d6e16a8" />
+<img width="412" height="566" alt="Screenshot 2026-06-13 044008" src="https://github.com/user-attachments/assets/8055991e-0ea4-4b66-8c70-41c77d6e16a8" /> <img width="866" height="857" alt="Screenshot 2026-06-13 043940" src="https://github.com/user-attachments/assets/74cd139c-4af3-443b-b2ff-beb48fdb1a02" />
+
 
 
 
