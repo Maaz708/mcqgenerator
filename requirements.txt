@@ -3,3 +3,6 @@ langchain
 streamlit
 python-dotenv
 PyPDF2
+langchain_core
+langchain_ollama
+langchain_groq
